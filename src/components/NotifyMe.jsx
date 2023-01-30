@@ -33,7 +33,7 @@ function NotifyMe() {
             </div>
           </div>
 
-          <div className="flex flex-col mt-8 space-y-3 sm:-mx-2 sm:flex-row sm:justify-center sm:space-y-0">
+          {/* <div className="flex flex-col mt-8 space-y-3 sm:-mx-2 sm:flex-row sm:justify-center sm:space-y-0">
             <input
               id="email"
               type="text"
@@ -44,7 +44,7 @@ function NotifyMe() {
             <button className="px-6 py-3 text-sm font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-blue-500 rounded-md hover:bg-blue-600 focus:bg-blue-600 focus:outline-none sm:mx-2">
               Notify Me
             </button>
-          </div>
+          </div> */}
 
           <p className="mt-8 text-center text-gray-700 text-md md:text-xl">
             Notify me when App is launched :)

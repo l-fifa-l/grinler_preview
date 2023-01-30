@@ -17,7 +17,7 @@ function Contents() {
         <Front />
         <Building />
         <About />
-        {/* <Expriences /> */}
+        <Expriences />
         <Features />
         <Testimonials />
         {/* <Team /> */}

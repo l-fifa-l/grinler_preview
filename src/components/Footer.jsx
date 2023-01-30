@@ -4,23 +4,23 @@ import React from 'react';
 function Footer() {
   return (
     <>
-      <footer class="bg-white w-full">
-        <div class="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
+      <footer className="bg-white w-full">
+        <div className="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
           <a
             href="#"
-            class="text-2xl font-bold text-gray-800 transition-colors duration-300 hover:text-blue-500"
+            className="text-2xl font-bold text-gray-800 transition-colors duration-300 hover:text-blue-500"
           >
             Grinler
           </a>
 
-          <p class="text-sm text-gray-600">
+          <p className="text-sm text-gray-600">
             © Copyright 2023. All Rights Reserved.
           </p>
 
-          <div class="flex -mx-2">
+          <div className="flex -mx-2">
             <a
               href="https://twitter.com/Grinlerapp"
-              class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="Twitter"
             >
               <img
@@ -32,7 +32,7 @@ function Footer() {
 
             {/* <a
               href="#"
-              class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="Facebook"
             >
               <img
@@ -44,7 +44,7 @@ function Footer() {
 
             <a
               href="https://discord.gg/XbrqYZfgDD"
-              class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="Discord"
             >
               <img
@@ -56,7 +56,7 @@ function Footer() {
 
             <a
               href="www.linkedin.com/in/grinler"
-              class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="LinkIn"
             >
               <img
