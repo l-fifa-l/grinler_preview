@@ -46,9 +46,9 @@ function NotifyMe() {
             </button>
           </div> */}
 
-          <p className="mt-8 text-center text-gray-700 text-md md:text-xl">
+          {/* <p className="mt-8 text-center text-gray-700 text-md md:text-xl">
             Notify me when App is launched :)
-          </p>
+          </p> */}
         </div>
       </section>
       <Donation />

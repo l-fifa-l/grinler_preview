@@ -49,7 +49,7 @@ function Footer() {
             >
               <img
                 className="w-8"
-                src="/images/socials/Discord.svg"
+                src="/images/socials/discord.svg"
                 alt="Discord account"
               />
             </a>
