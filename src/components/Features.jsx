@@ -36,13 +36,38 @@ function Features() {
               </span>
 
               <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-                New Components
+                Spin-Off/Collaboration
               </h1>
 
               <p className="text-gray-500 dark:text-gray-300">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Provident ab nulla quod dignissimos vel non corrupti doloribus
-                voluptatum eveniet
+                {`Grinler's spin-off feature allows users to create new and innovative meme ideas by collaborating with each other. This feature encourages creativity and humor within the online community, and adds a new level of fun to the world of memes.`}
+              </p>
+            </div>
+
+            <div className="space-y-3">
+              <span className="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="w-6 h-6"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"
+                  />
+                </svg>
+              </span>
+
+              <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
+                Easy Customizations
+              </h1>
+
+              <p className="text-gray-500 dark:text-gray-300">
+                {`Grinler's easy customization feature enables users to personalize their memes with ease. The platform offers a variety of options to make memes unique, allowing users to add text, images, and more to their creations. This feature adds to the creative experience of the platform.`}
               </p>
             </div>
 
@@ -71,42 +96,11 @@ function Features() {
               </span>
 
               <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-                elegant Dark Mode
+                Monetization Options
               </h1>
 
               <p className="text-gray-500 dark:text-gray-300">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Provident ab nulla quod dignissimos vel non corrupti doloribus
-                voluptatum eveniet
-              </p>
-            </div>
-
-            <div className="space-y-3">
-              <span className="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="w-6 h-6"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"
-                  />
-                </svg>
-              </span>
-
-              <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-                Easy to customiztions
-              </h1>
-
-              <p className="text-gray-500 dark:text-gray-300">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Provident ab nulla quod dignissimos vel non corrupti doloribus
-                voluptatum eveniet
+                {`Grinler offers several monetization options for its users, including adding advertisements to their memes, providing an opportunity to generate revenue.`}
               </p>
             </div>
 
@@ -129,13 +123,14 @@ function Features() {
               </span>
 
               <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-                Simple & clean designs
+                User-friendly interface
               </h1>
 
               <p className="text-gray-500 dark:text-gray-300">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Provident ab nulla quod dignissimos vel non corrupti doloribus
-                voluptatum eveniet
+                User-friendly interface that makes it easy for users to create
+                and share memes. The platform is intuitive and simple to use,
+                allowing for seamless navigation and an enjoyable user
+                experience.
               </p>
             </div>
           </div>

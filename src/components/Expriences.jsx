@@ -5,7 +5,7 @@ import React from 'react';
 function Expriences() {
   return (
     <section
-      class="flex items-center justify-center py-10 text-white bg-white sm:py-16 md:py-24 lg:py-32 tails-selected-element"
+      class="w-full flex items-center justify-center py-10 text-white bg-white sm:py-16 md:py-24 lg:py-32 tails-selected-element"
       contenteditable="true"
     >
       <div class="relative max-w-3xl px-10 text-center text-white auto lg:px-0">

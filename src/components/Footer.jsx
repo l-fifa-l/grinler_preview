@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
   return (
     <>
-      <footer class="bg-white">
+      <footer class="bg-white w-full">
         <div class="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
           <a
             href="#"
@@ -19,9 +19,9 @@ function Footer() {
 
           <div class="flex -mx-2">
             <a
-              href="#"
+              href="https://twitter.com/Grinlerapp"
               class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
-              aria-label="Reddit"
+              aria-label="Twitter"
             >
               <img
                 className="w-8"
@@ -30,7 +30,7 @@ function Footer() {
               />
             </a>
 
-            <a
+            {/* <a
               href="#"
               class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="Facebook"
@@ -40,12 +40,12 @@ function Footer() {
                 src="/images/socials/instagram.svg"
                 alt="Instagram Account"
               />
-            </a>
+            </a> */}
 
             <a
-              href="#"
+              href="https://discord.gg/XbrqYZfgDD"
               class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
-              aria-label="Github"
+              aria-label="Discord"
             >
               <img
                 className="w-8"
@@ -55,9 +55,9 @@ function Footer() {
             </a>
 
             <a
-              href="#"
+              href="www.linkedin.com/in/grinler"
               class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
-              aria-label="Github"
+              aria-label="LinkIn"
             >
               <img
                 className="w-8"

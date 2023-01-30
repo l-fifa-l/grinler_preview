@@ -5,10 +5,7 @@ import React from 'react';
 
 function Testimonials() {
   return (
-    <section
-      className="flex items-center justify-center py-20 bg-white min-w-screen tails-selected-element"
-      contenteditable="true"
-    >
+    <section className="flex items-center justify-center py-20 bg-white min-w-screen tails-selected-element">
       <div className="px-16 bg-white">
         <div className="container flex flex-col items-start mx-auto lg:items-center">
           <p

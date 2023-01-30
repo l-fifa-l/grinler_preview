@@ -13,14 +13,14 @@ import Expriences from './Expriences';
 function Contents() {
   return (
     <>
-      <main className="w-full grid grid-cols-1 justify-items-center">
+      <main className=" min-w-full grid grid-cols-1 justify-items-center">
         <Front />
         <Building />
         <About />
-        <Expriences />
+        {/* <Expriences /> */}
         <Features />
         <Testimonials />
-        <Team />
+        {/* <Team /> */}
         <NotifyMe />
       </main>
     </>

@@ -5,7 +5,7 @@ import Donation from './Donation';
 function NotifyMe() {
   return (
     <>
-      <section className=" py-24 flex items-center flex-1">
+      <section className=" px-2 py-6 flex items-center flex-1">
         <div className="flex flex-col w-full ">
           <h1 className="text-5xl font-extrabold text-center lg:text-7xl 2xl:text-8xl">
             <span className="text-transparent bg-gradient-to-br bg-clip-text from-teal-500 via-indigo-500 to-sky-500 dark:from-teal-200 dark:via-indigo-300 dark:to-sky-500">
@@ -21,12 +21,12 @@ function NotifyMe() {
             App will Soon be Available on
             <div className="flex space-x-3 py-4">
               <img
-                className="h-16"
+                className="h-14"
                 src="\images\socials\App Store.svg"
                 alt=""
               />
               <img
-                className="h-16"
+                className="h-14"
                 src="\images\socials\Play Store.svg"
                 alt=""
               />
