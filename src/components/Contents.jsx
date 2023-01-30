@@ -19,7 +19,7 @@ function Contents() {
         <About />
         <Expriences />
         <Features />
-        <Testimonials />
+        {/* <Testimonials /> */}
         {/* <Team /> */}
         <NotifyMe />
       </main>
