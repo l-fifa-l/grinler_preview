@@ -6,19 +6,19 @@ function Features() {
     <section className="bg-white dark:bg-gray-900">
       <div className="container px-6 py-10 mx-auto">
         <h1 className="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">
-          explore our <br /> awesome Components
+          explore our <br /> awesome Features
         </h1>
 
         <div className="mt-2">
-          <span className="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
-          <span className="inline-block w-3 h-1 ml-1 bg-blue-500 rounded-full"></span>
-          <span className="inline-block w-1 h-1 ml-1 bg-blue-500 rounded-full"></span>
+          <span className="inline-block w-40 h-1 bg-[#F02E65] rounded-full"></span>
+          <span className="inline-block w-3 h-1 ml-1 bg-[#F02E65] rounded-full"></span>
+          <span className="inline-block w-1 h-1 ml-1 bg-[#F02E65] rounded-full"></span>
         </div>
 
         <div className="mt-8 xl:mt-12 lg:flex lg:items-center">
           <div className="grid w-full grid-cols-1 gap-8 lg:w-1/2 xl:gap-16 md:grid-cols-2">
             <div className="space-y-3">
-              <span className="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
+              <span className="inline-block p-3 rounded-xl text-white bg-blue-500">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-6 h-6"
@@ -72,7 +72,7 @@ function Features() {
             </div>
 
             <div className="space-y-3">
-              <span className="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
+              <span className="inline-block p-3 rounded-xl text-white bg-blue-500">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-6 h-6"
@@ -105,7 +105,7 @@ function Features() {
             </div>
 
             <div className="space-y-3">
-              <span className="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
+              <span className="inline-block p-3 rounded-xl text-white bg-blue-500">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-6 h-6"
@@ -137,8 +137,8 @@ function Features() {
 
           <div className="hidden lg:flex lg:w-1/2 lg:justify-center">
             <img
-              className="w-[28rem] h-[28rem] flex-shrink-0 object-scale-down xl:w-[34rem] xl:h-[34rem]"
-              src="/images/background/features.jpg"
+              className="w-[40rem] h-[40rem] flex-shrink-0 object-scale-down xl:w-[40rem] xl:h-[40rem]"
+              src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mobile-app.svg"
               alt=""
             />
           </div>

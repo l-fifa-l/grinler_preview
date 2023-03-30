@@ -43,7 +43,7 @@ function Footer() {
             </a> */}
 
             <a
-              href="https://discord.gg/XbrqYZfgDD"
+              href="https://discord.gg/UE6vw2UpGn"
               className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
               aria-label="Discord"
             >
@@ -57,7 +57,7 @@ function Footer() {
             <a
               href="www.linkedin.com/in/grinler"
               className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
-              aria-label="LinkIn"
+              aria-label="LinkedIn"
             >
               <img
                 className="w-8"

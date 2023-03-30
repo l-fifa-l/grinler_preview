@@ -10,20 +10,20 @@ function About() {
         </h1>
 
         <div className="mt-2">
-          <span className="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
-          <span className="inline-block w-3 h-1 ml-1 bg-blue-500 rounded-full"></span>
-          <span className="inline-block w-1 h-1 ml-1 bg-blue-500 rounded-full"></span>
+          <span className="inline-block w-40 h-1 bg-[#F02E65] rounded-full"></span>
+          <span className="inline-block w-3 h-1 ml-1 bg-[#F02E65] rounded-full"></span>
+          <span className="inline-block w-1 h-1 ml-1 bg-[#F02E65] rounded-full"></span>
         </div>
 
         <div className="mt-8 xl:mt-12 lg:flex lg:items-center">
           <div className="grid grid-cols-1 lg:w-1/2 gap-8 xl:gap-16">
             <div className="space-y-3">
-              <div className="flex flex-col items-center w-2xl mx-12 lg:mx-0">
+              <div className="flex flex-col items-center w-2xl lg:mx-0">
                 <div className="relative text-center">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 512 512"
-                    className="absolute top-0 left-0 w-8 h-8 dark:text-gray-700"
+                    className="absolute top-0 left-0 w-8 h-8 text-[#F02E65]"
                   >
                     <path
                       fill="currentColor"
@@ -35,21 +35,20 @@ function About() {
                     ></path>
                   </svg>
                   <p className="px-6 py-1 lg:text-3xl text-lg italic text-white">
-                    Grinler addresses the issues of limited expression and
-                    lengthy meme creation processes by providing a user-friendly
-                    platform for easy and efficient meme collaboration. It also
-                    centralizes meme creation, allowing users to easily share
-                    their creations across different apps. Grinler also aims to
-                    bring new opportunities for revenue through premium features
-                    and merchandise, as well as advertising. Overall, it aims to
-                    empower users to express themselves creatively and
-                    humorously, and to bring new energy to the global meme
-                    industry.
+                    Are you tired of limited expression and lengthy meme
+                    creation processes? Look no further than Grinler! Our
+                    user-friendly platform allows for easy and efficient meme
+                    collaboration, making it easier than ever to express
+                    yourself creatively and humorously. Plus, with centralized
+                    creation, sharing your creations across different apps has
+                    never been easier.Don&apos;t miss out on the chance to join
+                    the global meme industry and empower your creative
+                    expression with Grinler. Try it out today!
                   </p>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 512 512"
-                    className="absolute bottom-0 right-0 w-8 h-8 dark:text-gray-700"
+                    className="absolute bottom-0 right-0 w-8 h-8 text-[#F02E65]"
                   >
                     <path
                       fill="currentColor"
@@ -61,15 +60,15 @@ function About() {
                     ></path>
                   </svg>
                 </div>
-                <span className="w-12 h-1 my-2 rounded-lg dark:bg-violet-400"></span>
+                <span className="w-12 h-1 my-2 rounded-lg bg-[#F02E65]"></span>
               </div>
             </div>
           </div>
 
           <div className="hidden lg:flex lg:w-1/2 lg:justify-center">
             <img
-              className="w-[28rem] h-[28rem] flex-shrink-0 object-cover xl:w-[34rem] xl:h-[34rem]"
-              src="https://media.tenor.com/YecgCBvBkKEAAAAj/cool-yeah-cute.gif"
+              className="h-96 flex-shrink-0 object-cover"
+              src="https://static.vecteezy.com/system/resources/previews/008/879/463/large_2x/3d-minimal-social-media-with-video-and-photo-gallery-on-mobile-application-and-mobile-web-design-user-interface-optimization-for-banner-and-website-image-3d-render-on-pink-background-free-png.png"
               alt=""
             />
           </div>

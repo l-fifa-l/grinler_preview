@@ -7,33 +7,11 @@ function Building() {
     <section className="container px-6 py-16 mx-auto text-center">
       <div className="max-w-lg mx-auto">
         <h1 className="text-3xl font-semibold text-gray-800 lg:text-4xl">
-          Creating Most Enjoyable Social Networking App
+          The Social Network for the New Age
         </h1>
         <p className="mt-6 text-gray-700">
-          Grinler, From India for the World With Love
+          From India for the World With a pinch of Love
         </p>
-        <div className="flex space-x-3 px-5 py-2 mt-6 text-sm font-medium justify-center text-white capitalize rounded-lg focus:outline-none">
-          <img
-            className="w-12"
-            src="https://media.tenor.com/RO4xfVyooqQAAAAi/cute.gif"
-            alt=""
-          />
-          <img
-            className="w-12"
-            src="https://media.tenor.com/RO4xfVyooqQAAAAi/cute.gif"
-            alt=""
-          />
-          <img
-            className="w-12"
-            src="https://media.tenor.com/RO4xfVyooqQAAAAi/cute.gif"
-            alt=""
-          />
-          <img
-            className="w-12"
-            src="https://media.tenor.com/RO4xfVyooqQAAAAi/cute.gif"
-            alt=""
-          />
-        </div>
       </div>
 
       <div className="flex justify-center mt-10">

@@ -36,55 +36,62 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1700&amp;q=80"
+                    // src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1700&amp;q=80"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                  <h4 className="font-bold text-gray-800">John Doe</h4>
-                  <p className="text-gray-600">CEO of Something</p>
+                  <h4 className="font-bold text-gray-800">
+                    Ved Prakash Panday
+                  </h4>
+                  <p className="text-gray-600">PM at Mindtickle</p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                This is a no-brainer if you want to take your business to the
-                next level. If you are looking for the ultimate toolset, this is
-                it!
+                I had a lot of fun using the spin-off feature on Grinler! It's
+                great to see how my memes can inspire others to create their own
+                funny versions. I love the sense of community that Grinler
+                provides for meme creators.
               </blockquote>
             </div>
             <div className="flex flex-col items-start justify-start w-full h-auto px-0 mx-0 mb-12 border-l border-r border-transparent lg:w-1/3 lg:mb-0 lg:px-8 lg:mx-8 lg:border-gray-200">
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2547&amp;q=80"
+                    // src="https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2547&amp;q=80"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                  <h4 className="font-bold text-gray-800">Jane Doe</h4>
-                  <p className="text-gray-600">CTO of Business</p>
+                  <h4 className="font-bold text-gray-800">Nupur</h4>
+                  <p className="text-gray-600">MBA student</p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                Thanks for creating this service. My life is so much easier.
-                Thanks for making such a great product.
+                The spin-off feature on Grinler is a game-changer for meme
+                creation. It makes it so easy to collaborate with others and see
+                how your ideas can inspire new content. I can't wait to see what
+                other features Grinler has in store!
               </blockquote>
             </div>
             <div className="flex flex-col items-start justify-start w-full h-auto lg:w-1/3">
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1256&amp;q=80"
+                    // src="https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1256&amp;q=80"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                  <h4 className="font-bold text-gray-800">John Smith</h4>
-                  <p className="text-gray-600">Creator of Stuff</p>
+                  <h4 className="font-bold text-gray-800">Ankita</h4>
+                  <p className="text-gray-600">Engineering student</p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                Packed with awesome content and exactly what I was looking for.
-                I would highly recommend this to anyone.
+                I was impressed with how user-friendly the spin-off feature on
+                Grinler was. It only took me a few minutes to create my own
+                version of a meme and share it with my friends. I can definitely
+                see myself using Grinler for all my meme creation needs.
               </blockquote>
             </div>
           </div>
