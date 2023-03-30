@@ -26,9 +26,9 @@ function Front() {
       {/* <div className="bg-fixed h-screen w-full bg-[url('/images/background/background.png')]"></div> */}
       <section
         className="bg-fixed bg-no-repeat h-screen
-       bg-cover w-full bg-[url('https://img.freepik.com/free-vector/red-background-comic-style_23-2149034894.jpg?w=1060&t=st=1680202512~exp=1680203112~hmac=ab81c27e55211354de1245718542585399184b8ee864b2bd9daf04b6679f48af')]"
+       bg-cover w-full bg-[url('/images/background/background.png')]"
       >
-        <div className="flex justify-center mx-auto my-auto px-4 py-28 text-gray-100 overflow-hidden">
+        <div className="mx-auto px-4 py-28 gap-12 text-gray-800 overflow-hidden md:px-8 md:flex">
           <div className="flex-none space-y-5 max-w-xl">
             <a
               href="javascript:void(0)"
@@ -53,7 +53,7 @@ function Front() {
                 </svg>
               </p>
             </a>
-            <h1 className="text-4xl text-gray-100 font-extrabold sm:text-5xl">
+            <h1 className="text-4xl text-gray-800 font-extrabold sm:text-5xl">
               Platform designed for meme lovers to create, share, and connect.
             </h1>
             <p>
@@ -62,7 +62,7 @@ function Front() {
               edit memes, all while engaging with a community of like-minded
               individuals. Join Grinler today and unleash your creativity!
             </p>
-            <h1 className="text-2xl text-gray-100 font-extrabold sm:text-5xl">
+            <h1 className="text-2xl text-gray-800 font-extrabold sm:text-5xl">
               Coming Soon
             </h1>
             <div className="flex items-center gap-x-3 sm:text-sm">
