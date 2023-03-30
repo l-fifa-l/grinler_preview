@@ -28,7 +28,7 @@ function Front() {
         className="bg-fixed bg-no-repeat h-screen
        bg-cover w-full bg-[url('/images/background/background.png')]"
       >
-        <div className="mx-auto px-4 py-20 md:py-28 gap-12 text-gray-800 overflow-hidden md:px-8 md:flex">
+        <div className="mx-auto px-4 py-10 md:py-28 gap-12 text-gray-800 overflow-hidden md:px-8 md:flex">
           <div className="flex-none space-y-5 max-w-xl">
             <a
               href="javascript:void(0)"
