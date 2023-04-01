@@ -56,21 +56,19 @@ function Front() {
             <h1 className="text-4xl text-gray-800 font-extrabold sm:text-5xl">
               Platform designed for meme lovers to create, share, and connect.
             </h1>
-            <p>
+            {/* <p>
               Welcome to Grinler, the social media platform built for meme
               lovers like you! With Grinler, you can easily create, share, and
               edit memes, all while engaging with a community of like-minded
               individuals. Join Grinler today and unleash your creativity!
-            </p>
-            <h1 className="text-2xl text-gray-800 font-extrabold sm:text-5xl">
-              Coming Soon
-            </h1>
+            </p> */}
+
             <div className="flex items-center gap-x-3 sm:text-sm">
               <a
-                href="javascript:void(0)"
+                href="https://app.grinler.com/"
                 className="flex items-center justify-center gap-x-1 py-2 px-4 text-white font-medium bg-gray-800 duration-150 hover:bg-gray-700 active:bg-gray-900 rounded-full md:inline-flex"
               >
-                Open App
+                Open Web-App
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
@@ -84,6 +82,22 @@ function Front() {
                   />
                 </svg>
               </a>
+            </div>
+
+            <h1 className="text-2xl text-gray-800 font-extrabold sm:text-5xl">
+              App Coming Soon on
+            </h1>
+            <div className="flex space-x-3 py-4">
+              <img
+                className="h-14"
+                src="\images\socials\App Store.svg"
+                alt=""
+              />
+              <img
+                className="h-14"
+                src="\images\socials\Play Store.svg"
+                alt=""
+              />
             </div>
           </div>
         </div>
