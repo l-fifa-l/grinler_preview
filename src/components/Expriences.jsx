@@ -6,7 +6,7 @@ function Expriences() {
   return (
     <section
       className="flex items-center justify-center py-10 text-white bg-white sm:py-16 md:py-24 lg:py-32 tails-selected-element"
-      contenteditable="true"
+      // contenteditable="true"
     >
       <div className="relative max-w-3xl text-center text-white auto lg:px-0">
         <div className="flex flex-col w-full md:flex-row">
