@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.5",
+    "@notionhq/client": "^2.2.5",
     "alpinejs": "^3.11.1",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.5",
