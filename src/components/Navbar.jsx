@@ -65,24 +65,25 @@ const Navbar = () => {
                 Home
               </Link>
             </li>
+
             <li>
               <Link
                 href="#features"
-                aria-label="Features"
+                aria-label="features"
                 title="Features"
                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
               >
-                Details
+                Features
               </Link>
             </li>
             <li>
               <Link
                 href="#details"
-                aria-label="Details"
-                title="Product pricing"
+                aria-label="details"
+                title="Details"
                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
               >
-                Features
+                Details
               </Link>
             </li>
             <li>
