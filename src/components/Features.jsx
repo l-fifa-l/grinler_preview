@@ -36,11 +36,11 @@ function Features() {
               </span>
 
               <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-                Spin-Off/Collaboration
+                Collaboration/Remix
               </h1>
 
               <p className="text-gray-500 dark:text-gray-300">
-                {`Grinler's spin-off feature allows users to create new and innovative meme ideas by collaborating with each other. This feature encourages creativity and humor within the online community, and adds a new level of fun to the world of memes.`}
+                {`Grinler's remix feature allows users to create new and innovative meme ideas by collaborating with each other. This feature encourages creativity and humor within the online community, and adds a new level of fun to the world of memes.`}
               </p>
             </div>
 

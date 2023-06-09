@@ -1,12 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
 
 import React from 'react';
+import Waitlist from './Waitlist';
 
 function Front() {
   return (
-    <div className="flex flex-col justify-evenly ju max-w-screen px-4 mx-auto lg:pt-16 lg:flex-row md:px-8 lg:max-w-screen bg-gradient-to-b from-orange-400 via-orange-200 to-white">
-      <div className="pt-16 mb-16 lg:mb-0 lg:pt-32 lg:max-w-lg">
-        <div className="max-w-xl mb-3 space-y-8">
+    <div className="flex flex-col justify-evenly ju max-w-screen px-4 pt-4 mx-auto lg:pt-16 lg:flex-row md:px-8 lg:max-w-screen bg-gradient-to-b from-[#00D3CA] via-[#ffffff] to-white ">
+      <div className="pt-16  md:mb-16 lg:mb-0 lg:pt-16 lg:max-w-lg">
+        <div className="max-w-xl mb-3 sm:mt-4 lg:space-y-6">
           <div>
             <div className="inline-flex gap-x-6 items-center rounded-full p-1 pr-6 border text-sm font-medium duration-150 hover:bg-white">
               <span className="inline-block rounded-full px-3 py-1 bg-indigo-600 text-white">
@@ -31,7 +32,7 @@ function Front() {
           </div>
 
           <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-            Platform designed for <br className="hidden md:block" />
+            AI Platform designed for <br className="hidden md:block" />
             meme lovers.{' '}
             <span className="inline-block text-deep-purple-accent-400">
               Show your funny side
@@ -50,15 +51,16 @@ function Front() {
               Soon
             </span>
           </h1>
-          <div className="flex items-center">
-            <div className="flex space-x-3 py-4">
+          <Waitlist />
+          <div className="flex md:items-center sm:justify-start">
+            <div className="flex justify-evenly space-x-8 lg:space-x-10 pt-6">
               <img
-                className="h-14"
+                className="h-14 "
                 src="\images\socials\App Store.svg"
                 alt=""
               />
               <img
-                className="h-14"
+                className="h-14 "
                 src="\images\socials\Play Store.svg"
                 alt=""
               />
@@ -66,7 +68,7 @@ function Front() {
           </div>
         </div>
       </div>
-      <div className="pt-7">
+      <div className="pt-3 md:pt-7">
         <img
           src="https://kitwind.io/assets/kometa/two-thirds-phone.png"
           className="object-cover object-top w-full h-64 mx-auto lg:h-auto xl:mr-24 md:max-w-sm"

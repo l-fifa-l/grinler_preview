@@ -36,7 +36,7 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    // src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1700&amp;q=80"
+                    src="https://media.licdn.com/dms/image/D4D03AQEcOYO0i55Xug/profile-displayphoto-shrink_100_100/0/1683920700253?e=1691625600&v=beta&t=Q-K4vmphVM1EKoJ81AucXw7JlSq1fKrE4LHXqZ9tr-0"
                     className="object-cover w-full h-full"
                   />
                 </div>
@@ -44,11 +44,11 @@ function Testimonials() {
                   <h4 className="font-bold text-gray-800">
                     Ved Prakash Panday
                   </h4>
-                  <p className="text-gray-600">PM at Mindtickle</p>
+                  <p className="text-gray-600">PM @ Mindtickle</p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                I had a lot of fun using the spin-off feature on Grinler! It's
+                I had a lot of fun using the Remix feature on Grinler! It's
                 great to see how my memes can inspire others to create their own
                 funny versions. I love the sense of community that Grinler
                 provides for meme creators.
@@ -58,17 +58,19 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    // src="https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2547&amp;q=80"
+                    src="https://media.licdn.com/dms/image/C5103AQFswY3f_YpyHA/profile-displayphoto-shrink_400_400/0/1558371062184?e=1691625600&v=beta&t=7ChKZJIDI72KV70HdfDRVXBc82qRZg1Z6X4mA-eZcss"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                  <h4 className="font-bold text-gray-800">Nupur</h4>
-                  <p className="text-gray-600">MBA student</p>
+                  <h4 className="font-bold text-gray-800">Mahaveer Muttha</h4>
+                  <p className="text-gray-600">
+                    Director Of IT @ Birdvision Consulting
+                  </p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                The spin-off feature on Grinler is a game-changer for meme
+                The Remix feature on Grinler is a game-changer for meme
                 creation. It makes it so easy to collaborate with others and see
                 how your ideas can inspire new content. I can't wait to see what
                 other features Grinler has in store!
@@ -78,17 +80,17 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    // src="https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1256&amp;q=80"
+                    src="https://media.licdn.com/dms/image/D5603AQHOTi0-geKYHg/profile-displayphoto-shrink_400_400/0/1680840790426?e=1691625600&v=beta&t=YRXhoD-FK49mMdXsP4K5Tb01cNDHNA5Oq37Z89P0MwU"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                  <h4 className="font-bold text-gray-800">Ankita</h4>
-                  <p className="text-gray-600">Engineering student</p>
+                  <h4 className="font-bold text-gray-800">Anubhav Singh</h4>
+                  <p className="text-gray-600">Co-founder - Dynopii</p>
                 </div>
               </div>
               <blockquote className="mt-8 text-lg text-gray-500">
-                I was impressed with how user-friendly the spin-off feature on
+                I was impressed with how user-friendly the Remix feature on
                 Grinler was. It only took me a few minutes to create my own
                 version of a meme and share it with my friends. I can definitely
                 see myself using Grinler for all my meme creation needs.

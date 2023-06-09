@@ -9,18 +9,30 @@ import Testimonials from './Testimonials';
 import Team from './Team';
 import NotifyMe from './NotifyMe';
 import Expriences from './Expriences';
+import Support from './Support';
 
 function Contents() {
   return (
     <>
-      <Front />
-      <Building />
-      <About />
-      <Expriences />
-      <Features />
-      <Testimonials />
-      <Team />
-      <NotifyMe />
+      <div id="home">
+        <Front />
+        <Support />
+        <Building />
+      </div>
+      <div id="features">
+        <Features />
+      </div>
+      <div id="details">
+        <About />
+        <Expriences />
+        <Testimonials />
+      </div>
+      <div id="aboutus">
+        <Team />
+      </div>
+      <div id="download">
+        <NotifyMe />
+      </div>
     </>
   );
 }

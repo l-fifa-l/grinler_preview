@@ -3,10 +3,10 @@ import React from 'react';
 
 function About() {
   return (
-    <section className="bg-gray-900">
+    <section id="about" className="bg-gray-900">
       <div className="container px-6 py-10 mx-auto">
         <h1 className="text-2xl font-semibold capitalize lg:text-3xl text-white">
-          What is Grinler About
+          What is Grinler ?
         </h1>
 
         <div className="mt-2">
