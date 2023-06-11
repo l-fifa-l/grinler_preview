@@ -53,7 +53,7 @@ function Waitlist() {
       </form>
       {submitted ? (
         <p className="text-center mt-3 max-w-lg text-xl text-blue-400 sm:mx-auto">
-          We&apos;ll email you when we launch. Thank You!!
+          We&apos;ll email you when we launch. Thank You !!
         </p>
       ) : (
         <></>
