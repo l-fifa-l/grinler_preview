@@ -48,11 +48,11 @@ function Front() {
           </p> */}
           <h1 className="text-5xl mb-10 font-extrabold lg:text-7xl 2xl:text-5xl">
             <span className="text-transparent bg-gradient-to-br bg-clip-text from-teal-500 via-indigo-500 to-sky-500 dark:from-teal-200 dark:via-indigo-300 dark:to-sky-500">
-              Coming{' '}
+              Available on{' '}
             </span>
 
             <span className="text-transparent bg-gradient-to-tr bg-clip-text from-blue-500 via-pink-500 to-red-500 dark:from-sky-300 dark:via-pink-300 dark:to-red-500">
-              Soon
+              Play store
             </span>
           </h1>
           <Waitlist className="my-12" />
@@ -63,11 +63,13 @@ function Front() {
                 src="\images\socials\App Store.svg"
                 alt=""
               />
-              <img
-                className="h-14 "
-                src="\images\socials\Play Store.svg"
-                alt=""
-              />
+              <Link href="https://play.google.com/store/apps/details?id=com.grinler.app">
+                <img
+                  className="h-14 "
+                  src="\images\socials\Play Store.svg"
+                  alt=""
+                />
+              </Link>
             </div>
           </div>
         </div>
