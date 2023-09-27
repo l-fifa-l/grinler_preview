@@ -13,20 +13,20 @@ const pacifico = Pacifico({
 
 const Navbar = () => {
   const [navbarBg, setNavbarBg] = useState('bg-transparent');
-  const [navbarSize, setNavbarSize] = useState('h-20');
+  const [navbarSize, setNavbarSize] = useState('h-15');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [height, setHeight] = useState(4);
+  const [height, setHeight] = useState(3);
 
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 0) {
-        setNavbarBg('bg-[#00D3CA]');
-        setNavbarSize('h-20');
-        setHeight(4);
+        setNavbarBg('backdrop-blur-xl');
+        setNavbarSize('h-15');
+        setHeight(3);
       } else {
         setNavbarBg('bg-transparent');
-        setNavbarSize('h-20');
-        setHeight(4);
+        setNavbarSize('h-15');
+        setHeight(3);
       }
     };
 
@@ -37,11 +37,9 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav
-      className={`fixed top-0 left-0 w-full z-50 transition-all duration-500 ${navbarBg} ${navbarSize}`}
-    >
+    <nav className={`fixed top-0 left-0 w-full z-50 ${navbarBg} ${navbarSize}`}>
       <div
-        className={`px-4 py-${height} mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8`}
+        className={`px-3 py-${height} mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8`}
       >
         <div className="relative flex items-center justify-between">
           <Link

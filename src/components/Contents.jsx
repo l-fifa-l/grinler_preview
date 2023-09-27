@@ -27,7 +27,7 @@ function Contents() {
         <Expriences />
         <Testimonials />
       </div>
-      <div id="aboutus">{/* <Team /> */}</div>
+      <div id="aboutus"></div>
       <div id="download">
         <NotifyMe />
       </div>

@@ -36,7 +36,7 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://media.licdn.com/dms/image/D4D03AQEcOYO0i55Xug/profile-displayphoto-shrink_100_100/0/1683920700253?e=1691625600&v=beta&t=Q-K4vmphVM1EKoJ81AucXw7JlSq1fKrE4LHXqZ9tr-0"
+                    src="https://media.licdn.com/dms/image/D4D03AQExyDYflodwnA/profile-displayphoto-shrink_400_400/0/1695738374145?e=1701302400&v=beta&t=4fPcXHau1AVnEDCnx7gBCusiFbSixWzZ3O7yQaRStz0"
                     className="object-cover w-full h-full"
                   />
                 </div>
@@ -58,7 +58,7 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://media.licdn.com/dms/image/C5103AQFswY3f_YpyHA/profile-displayphoto-shrink_400_400/0/1558371062184?e=1691625600&v=beta&t=7ChKZJIDI72KV70HdfDRVXBc82qRZg1Z6X4mA-eZcss"
+                    src="https://media.licdn.com/dms/image/C5103AQFswY3f_YpyHA/profile-displayphoto-shrink_100_100/0/1558371062184?e=1701302400&v=beta&t=MYUg6kn3eVibx47vd2xUnd5F7aYt9GANcfXzNxpltFU"
                     className="object-cover w-full h-full"
                   />
                 </div>
@@ -80,7 +80,7 @@ function Testimonials() {
               <div className="flex items-center justify-center">
                 <div className="w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full">
                   <img
-                    src="https://media.licdn.com/dms/image/D5603AQHOTi0-geKYHg/profile-displayphoto-shrink_400_400/0/1680840790426?e=1691625600&v=beta&t=YRXhoD-FK49mMdXsP4K5Tb01cNDHNA5Oq37Z89P0MwU"
+                    src="https://media.licdn.com/dms/image/D5603AQHOTi0-geKYHg/profile-displayphoto-shrink_400_400/0/1680840790426?e=1701302400&v=beta&t=vvBAa3f7KS5jTTVieGhnFoRgH-6BpbXoQJWBlnDq9Ik"
                     className="object-cover w-full h-full"
                   />
                 </div>
